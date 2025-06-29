@@ -1,0 +1,62 @@
+Below are example queries users should ask the **Complaint Management Chatbot** and the expected chatbot responses, based on the functionality defined in `main_chatbot.py`, `setup_db_complaints.py`, and the Flask API (`api_server.py`). These cover filing complaints, retrieving details, updating status, and querying the RAG knowledge base.
+
+### 1. Filing a New Complaint
+**User**: I want to file a complaint.  
+**Chatbot**: I'm sorry to hear you have an issue. Please provide your name.
+
+**User**: John Doe  
+**Chatbot**: Thank you, John. What is your phone number?
+
+**User**: 1234567890  
+**Chatbot**: Got it. Please provide your email address.
+
+**User**: john@example.com  
+**Chatbot**: Thanks. Can you share more details about the issue?
+
+**User**: My order was delayed by a week.  
+**Chatbot**: Your complaint has been registered with ID: CMP87654321. You'll hear back soon.
+
+**User** (Invalid input): 123  
+**Chatbot**: Error: Invalid phone number format. Please provide a valid phone number (e.g., 1234567890).
+
+### 2. Retrieving Complaint Details
+**User**: Show me details for complaint CMP001.  
+**Chatbot**:  
+```
+Complaint ID: CMP001
+Name: John Doe
+Phone: 1234567890
+Email: john@example.com
+Details: Delayed delivery of order #12345
+Created At: 2025-06-25 10:30:00
+```
+
+**User**: What’s the status of complaint CMP999?  
+**Chatbot**: Complaint not found.
+
+### 3. Updating Complaint Status
+**User**: Update status of complaint CMP001 to resolved.  
+**Chatbot**: Complaint status updated to resolved.
+
+**User**: Change complaint CMP999 status to pending.  
+**Chatbot**: Complaint not found.
+
+### 4. Querying the Knowledge Base (RAG)
+**User**: How should I handle customer complaints?  
+**Chatbot**: To handle customer complaints effectively:  
+- Be polite and professional at all times  
+- Ask for information one step at a time  
+- Acknowledge the issue and apologize  
+- Provide clear next steps and timelines
+
+**User**: What are the best practices for customer service?  
+**Chatbot**: Best practices for customer service include:  
+- Listen actively and empathize with the customer  
+- Respond promptly and clearly  
+- Follow up to ensure resolution  
+- Maintain a positive and professional tone
+
+sqlite3 complaints.db
+
+.tables
+SELECT * FROM complaints;

@@ -1,0 +1,11 @@
+# Database Configuration
+POSTGRES_PASSWORD=your_postgres_password
+POSTGRES_PORT=5432
+
+# API Keys
+GROQ_APIKEY=your_groq_api_key
+OPENAI_APIKEY=your_openai_api_key
+
+# Email Configuration (if needed for notifications)
+EMAIL_ID=your_email@gmail.com
+EMAIL_PASSWORD=your_app_password

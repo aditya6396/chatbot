@@ -1,0 +1,85 @@
+
+# Customer Service Guidelines for Complaint Management
+
+## General Principles
+- Always acknowledge the customer's concern with empathy
+- Collect all necessary information before proceeding
+- Provide clear and timely responses
+- Follow up on complaint resolutions
+
+## Complaint Handling Process
+
+### Information Collection
+When handling complaints, collect the following information:
+1. Customer's full name
+2. Contact phone number
+3. Email address
+4. Detailed description of the complaint
+
+### Response Guidelines
+- Be polite and professional at all times
+- Ask for information one step at a time to avoid overwhelming customers
+- Acknowledge the issue and apologize for any inconvenience
+- Provide clear next steps and timelines
+
+### Common Complaint Types
+- Delivery issues (late, wrong address, damaged items)
+- Product quality concerns
+- Billing and payment problems
+- Customer service experience issues
+
+### Resolution Procedures
+1. Document all complaint details accurately
+2. Assign a unique complaint ID for tracking
+3. Investigate the issue thoroughly
+4. Provide appropriate compensation or resolution
+5. Follow up to ensure customer satisfaction
+
+### Communication Best Practices
+- Use clear, simple language
+- Be patient and understanding
+- Confirm understanding by summarizing key points
+- Provide realistic timelines for resolution
+
+## Escalation Procedures
+If a complaint cannot be resolved immediately:
+1. Document all details in the system
+2. Escalate to appropriate department
+3. Inform customer of escalation and expected timeline
+4. Ensure proper handoff and follow-up
+
+## Quality Standards
+- Respond to all complaints within 24 hours
+- Aim for first-contact resolution when possible
+- Maintain detailed records of all interactions
+- Conduct follow-up surveys for satisfaction measurement
+
+## Advanced Complaint Handling
+
+### Difficult Customers
+- Remain calm and professional
+- Listen actively to understand their frustration
+- Empathize with their situation
+- Offer multiple solution options when possible
+- Know when to escalate to a supervisor
+
+### Documentation Requirements
+- Record all customer interactions
+- Include timestamps and agent information
+- Note any promises made to customers
+- Track resolution progress
+- Maintain confidentiality of customer information
+
+### Follow-up Procedures
+- Contact customer within 24-48 hours of resolution
+- Verify customer satisfaction with the solution
+- Address any remaining concerns
+- Update records with follow-up results
+- Use feedback to improve processes
+
+## Performance Metrics
+- First Contact Resolution Rate
+- Average Response Time
+- Customer Satisfaction Score
+- Complaint Resolution Time
+- Escalation Rate
